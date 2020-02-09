@@ -1,0 +1,2 @@
+# EulerProject
+Solving Euler tasks
